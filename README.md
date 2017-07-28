@@ -1,0 +1,2 @@
+# simonbaier.com
+personal website 
